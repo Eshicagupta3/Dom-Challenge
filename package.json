@@ -1,0 +1,14 @@
+{
+  "name": "dom-challenge",
+  "version": "1.0.0",
+  "description": "js question",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ishika",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^9.9.9"
+  }
+}
